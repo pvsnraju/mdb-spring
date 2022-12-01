@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "6384fc1242483d2dfb5f3389"
+  },
+  "title": "Spring Data",
+  "description": "Tutorial 1",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6384fc8842483d2dfb5f338a"
+  },
+  "title": "Spring boot",
+  "description": "Tutorial 2",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e3ad48f838214a89f291"
+  },
+  "title": "Spring Boot Microservices",
+  "description": "Tutorial 3",
+  "published": true,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e41848f838214a89f292"
+  },
+  "title": "Microservices 2",
+  "description": "Tutorial 4",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e43248f838214a89f293"
+  },
+  "title": "Hibernate",
+  "description": "Tutorial 5",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e44a48f838214a89f294"
+  },
+  "title": "Functional Interface",
+  "description": "Tutorial 6",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e46b48f838214a89f295"
+  },
+  "title": "Method Reference",
+  "description": "Tutorial 7",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e47c48f838214a89f296"
+  },
+  "title": "Lambda",
+  "description": "Tutorial 8",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e48e48f838214a89f297"
+  },
+  "title": "Optional",
+  "description": "Tutorial 9",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385e4a448f838214a89f298"
+  },
+  "title": "Futures",
+  "description": "Tutorial 10",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+},{
+  "_id": {
+    "$oid": "6385f61c8661cf0b101119ec"
+  },
+  "title": "Completable Future",
+  "description": "Tutorial 11",
+  "published": false,
+  "_class": "com.example.mdbspring.model.Tutorial"
+}]
