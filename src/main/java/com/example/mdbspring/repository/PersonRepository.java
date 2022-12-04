@@ -13,6 +13,7 @@ public interface PersonRepository extends MongoRepository<Person, Long> {
     List<Person> findByFirstNameStartsWith(String name);
 
     //List<Person> findByAgeBetween(Integer minAge, Integer maxAge);
-    @Query(value = "{'age' : {$gt : ?0, $lt :?1}}")
+    @Query(value = "{'age' : {$gt : ?0, $lt :?1}}",
+    fields = "{addresses : 0}")
     List<Person> findByPersonAgeBetween(Integer minAge, Integer maxAge);
 }
